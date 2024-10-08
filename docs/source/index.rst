@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+LICHBONGDA.SOCCER | TIN TỨC BÓNG ĐÁ VÀ LỊCH THI ĐẤU ĐƯỢC CẬP NHẬT LIÊN TỤC
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`lichbongda.soccer <https://lichbongda.soccer/>`_ là trang web hàng đầu chuyên cập nhật lịch thi đấu bóng đá, phục vụ nhu cầu của người hâm mộ thể thao trên toàn cầu. Ra đời từ niềm đam mê bóng đá, lichbongda.soccer cung cấp thông tin chi tiết về thời gian và địa điểm các trận đấu, cùng với tin tức thể thao mới nhất, bảng xếp hạng, kết quả và tỷ lệ kèo nhà cái. Điểm nổi bật của lichbongda.soccer là tính năng cập nhật liên tục, giúp người dùng dễ dàng theo dõi diễn biến các trận đấu. Hãy đến với lichbongda.soccer để không bỏ lỡ bất kỳ khoảnh khắc nào của môn thể thao vua!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Chi Tiết:
 
-.. note::
+Website: https://lichbongda.soccer/
 
-   This project is under active development.
+Email: lichbongdasoccer@gmail.com
 
-Contents
---------
+Số Điện Thoại: 01217777890
 
-.. toctree::
+Địa Chỉ: 73/607 Phan Huy Ích, Phường 12, Gò Vấp, Hồ Chí Minh, Việt Nam
 
-   usage
-   api
+#lichbongda #lichbongda_soccer
